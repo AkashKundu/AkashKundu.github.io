@@ -1,0 +1,60 @@
+.information {
+    display: flex;
+    background-color: #7d3ad2;
+    padding: 25px;
+}
+.name{
+    flex: 3;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.details{
+    display: flex;
+    flex: 1;
+}
+.aTag{
+    flex:1;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.pagebody{
+    display: flex;
+    background-color:    #d0e6f7;
+    padding: 70px;
+}
+.bodyleft{
+    flex:3;
+    text-align: center;
+}
+.bodyright{
+    flex: 1;
+
+}
+.social{
+    text-align: right;
+}
+.log{
+    width: 50px;
+    height:50px;;
+}
+linkdicon{
+    width: 2px;
+    height: 2px;
+}
+.image{
+    width: 15%;
+    height: auto;
+    border-radius: 50%;    
+}
+
+.copyright{
+    text-align: right;
+    padding: 10px;
+    background-color: #7d3ad2;    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
